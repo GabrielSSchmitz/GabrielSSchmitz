@@ -1,10 +1,10 @@
 # Olá! 👋 Eu sou o Gabriel Schmitz
 
-Desenvolvedor de Software Sênior e Tech Lead em São José, Santa Catarina, com ampla experiência na área de tecnologia. Minha missão é entregar código de **alta qualidade**, impulsionar a **evolução do time** e garantir que os projetos tenham um **impacto real**.
+Desenvolvedor de Software **Sênior** e **Full-Stack** em São José, Santa Catarina, com ampla experiência na área de tecnologia. Sou um profissional focado em código de **alta qualidade**, impulsionando a **evolução técnica** dos projetos e garantindo que as entregas tenham um **impacto real**.
 
-Atualmente, atuo como Tech Lead e Desenvolvedor de Software Sênior, conduzindo a gestão de sprints, realizando code reviews e apoiando decisões de arquitetura.
+Minha atuação é prática: além de apoiar a equipe nas decisões de arquitetura e gestão de sprints, eu **pego junto no código** (hands-on) em todas as camadas da aplicação, com especialização em **microsserviços, Java/Spring, Node.js e Angular**.
 
-## 💻 Tech Stack & Expertise
+## 💻 Tech Stack & Expertise em Código
 
 Minha experiência abrange o desenvolvimento Full-Stack, com foco em arquitetura de microsserviços e soluções escaláveis.
 
@@ -15,33 +15,26 @@ Minha experiência abrange o desenvolvimento Full-Stack, com foco em arquitetura
 | **Banco de Dados** | MySQL, Postgresql |
 | **DevOps & Arquitetura** | Docker, Microsserviços, Arquitetura Monolítica |
 
-## 🌟 Projetos e Responsabilidades de Destaque
+## 🌟 Projetos e Contribuições Técnicas
 
-Como Tech Lead e Engenheiro de Software Principal, participei de projetos essenciais e sou responsável por garantir a qualidade na entrega dos produtos.
+Participei ativamente no desenvolvimento de projetos essenciais para o estado de Santa Catarina, contribuindo com código desde a prova de conceito (POC) até a implantação final.
 
 * **Sistemas de Saúde:** Experiência em projetos importantes como Lista de Espera SUS, Agenda Cirúrgica e Leitos.
 * **Plataformas de Gestão:** Colaboração em sistemas como Conecta e Guardião.
-* **Arquitetura:** Desenvolvimento de Provas de Conceito (POCs), implementação de melhorias de código e apoio a decisões de arquitetura.
-* **Manutenção:** Experiência na implementação de hotfixes em microserviços, BFF, frontend e sistemas legados/monolíticos.
+* **Qualidade de Código:** Especialista na implementação de **hotfixes** em microserviços, BFF, frontend e sistemas legados/monolíticos, garantindo sustentação técnica e eficiência.
+* **Arquitetura:** Desenvolvimento de Provas de Conceito (POCs) e implementação de melhorias de código e soluções de arquitetura.
 
-## 👥 Habilidades de Liderança e Interpessoais
+## 🤝 Liderança e Colaboração (Suporte ao Desenvolvimento)
 
-Minha atuação vai além do código, focada no desenvolvimento do time e na qualidade da entrega.
+As responsabilidades de Tech Lead me permitem garantir a excelência técnica e a consistência do código em todas as entregas.
 
-* **Liderança Técnica:** Liderança e apoio técnico ao time de desenvolvimento.
-* **Comunicação:** Boa comunicação e trabalho em equipe.
-* **Mindset:** Proatividade, dedicação, e adaptabilidade a novos desafios.
+* **Code Review:** Realizo **code reviews** detalhados, incentivando e mantendo boas práticas de desenvolvimento.
+* **Mentoria e Apoio:** Ofereço suporte aos desenvolvedores juniores e colaboro na definição de soluções técnicas.
+* **Comunicação:** Boa comunicação, trabalho em equipe e proatividade, essenciais para uma integração contínua entre desenvolvimento, análise e QA.
 
 ## 📈 GitHub Stats
 
 Estatísticas do GitHub virão aqui!
-
-## 🎓 Formação Acadêmica
-
-* **Bacharel em Ciência da Computação: Tecnologia da Informação** (Concluído)
-    * IES - Instituto de Ensino Superior da Grande Florianópolis - São José, SC (03/2015 - 12/2018)
-* **Técnico de informática, Desenvolvimento: Tecnologia da Informação** (Concluído)
-    * SENAI/SC - Serviço Nacional de Aprendizagem Industrial - São José, SC (03/2012 - 12/2013)
 
 ## ✉️ Conecte-se Comigo
 
