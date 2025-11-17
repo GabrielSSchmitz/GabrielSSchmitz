@@ -1,4 +1,4 @@
-## 🚀 Meu Perfil
+## Meu Perfil
 
 Olá! Sou **Gabriel Schmitz**, um Desenvolvedor de Software **Sênior Full-Stack** de São José, Santa Catarina, com uma jornada sólida no mundo da tecnologia.
 
@@ -6,7 +6,7 @@ Minha missão vai além de escrever código: sou impulsionado pela busca incessa
 
 Sou um profissional **hands-on** por natureza! Além de atuar ativamente no suporte à equipe em decisões de arquitetura e gestão de sprints, eu **mergulho no código** em todas as camadas da aplicação. Minha especialidade reside em construir soluções robustas usando **Microsserviços, Java/Spring, Node.js e Angular**.
 
-## 💻 Tech Stack: As Ferramentas que Me Ajudam a Construir Soluções
+## Tech Stack: As Ferramentas que Me Ajudam a Construir Soluções
 
 Minha experiência é focada em desenvolvimento Full-Stack, com especial atenção em arquiteturas de microsserviços e sistemas escaláveis de alta performance.
 
