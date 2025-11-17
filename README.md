@@ -1,6 +1,6 @@
 ## 🚀 Meu Perfil
 
-Olá! 👋 Sou **Gabriel Schmitz**, um Desenvolvedor de Software **Sênior Full-Stack** de São José, Santa Catarina, com uma jornada sólida no mundo da tecnologia.
+Olá! Sou **Gabriel Schmitz**, um Desenvolvedor de Software **Sênior Full-Stack** de São José, Santa Catarina, com uma jornada sólida no mundo da tecnologia.
 
 Minha missão vai além de escrever código: sou impulsionado pela busca incessante por **qualidade de código de alto nível** e pela **evolução técnica** contínua dos projetos. Garanto que cada entrega tenha um **impacto real e mensurável** no negócio e nos usuários.
 
@@ -37,7 +37,7 @@ Minha experiência é focada em desenvolvimento Full-Stack, com especial atenç�
 | **Banco de Dados** | **MySQL, Postgresql** |
 | **DevOps & Arquitetura** | **Docker**, **Microsserviços**, Arquitetura Monolítica (em processo de modernização) |
 
-## ✨ Projetos de Alto Impacto e Contribuições Técnicas
+## Projetos de Alto Impacto e Contribuições Técnicas
 
 Tive a oportunidade de participar do desenvolvimento de projetos cruciais para o estado de Santa Catarina, onde atuei desde a Prova de Conceito (POC) até a implantação final, garantindo a solidez e a performance.
 
@@ -46,7 +46,7 @@ Tive a oportunidade de participar do desenvolvimento de projetos cruciais para o
 * **Sustentação Técnica e Qualidade:** Especialista em **hotfixes** de alta complexidade em microserviços, BFFs, frontends e sistemas legados/monolíticos, garantindo a **sustentação técnica** e a **eficiência operacional** das plataformas.
 * **Inovação em Arquitetura:** Lidero o desenvolvimento de **Provas de Conceito (POCs)** e implemento melhorias contínuas que elevam a qualidade de código e otimizam as soluções de arquitetura.
 
-## 🤝 Liderança Técnica e Colaboração (Tech Lead)
+## Liderança Técnica e Colaboração (Tech Lead)
 
 Minha responsabilidade como Tech Lead é catalisar o crescimento da equipe e elevar o padrão técnico de todas as entregas.
 
@@ -54,13 +54,13 @@ Minha responsabilidade como Tech Lead é catalisar o crescimento da equipe e ele
 * **Mentoria e Suporte:** Ofereço **mentoria ativa** a desenvolvedores juniores e sou o ponto focal para a **definição de soluções técnicas** complexas.
 * **Comunicação Integrada:** Foco em uma **comunicação clara e proativa**, essencial para manter um fluxo de trabalho contínuo e integrado entre as áreas de **Desenvolvimento, Análise e QA**.
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSSchmitz&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/GabrielSSchmitz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSchmitz&layout=compact&theme=radical&hide_border=true)](https://github.com/GabrielSSchmitz)
 
-## ✉️ Conecte-se Comigo
+## Conecte-se Comigo
 
 | Plataforma | Link |
 | :--- | :--- |
