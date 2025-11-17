@@ -10,7 +10,7 @@ Minha experiência abrange o desenvolvimento Full-Stack, com foco em arquitetura
 
 | Categoria | Tecnologias Chave |
 | :--- | :--- |
-| **Backend** | Java, Springboot, Spring Framework, Go (Microserviços) |
+| **Backend** | Java, Springboot, Spring Framework |
 | **Frontend** | Angular (Framework), Javascript/Typescript, Node.js (BFF's e GATEWAY) |
 | **Banco de Dados** | MySQL, Postgresql |
 | **DevOps & Arquitetura** | Docker, Microsserviços, Arquitetura Monolítica |
@@ -34,7 +34,9 @@ As responsabilidades de Tech Lead me permitem garantir a excelência técnica e 
 
 ## 📈 GitHub Stats
 
-Estatísticas do GitHub virão aqui!
+[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSSchmitz&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/GabrielSSchmitz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSchmitz&layout=compact&theme=radical&hide_border=true)](https://github.com/GabrielSSchmitz)
 
 ## ✉️ Conecte-se Comigo
 
